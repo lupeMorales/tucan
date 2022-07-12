@@ -19,7 +19,7 @@ Dibujando con CSS puro.
 ## Objetivo
 
 El Objetivo de este ejercicio no es otro que practicar posicionamiento con CSS de una manera amena.
-Usando formas geometricas simples creamos un sencillo tucán. Para ello usamos propiedades de CSS. He practicado con pseudo-elementos y le he añadido movimiento con transiciones y lo más importante, me he divertido.
+Usando formas geometricas simples he creado un sencillo tucán usando sólo propiedades de CSS. He practicado con pseudo-clases y le he añadido movimiento con transiciones y lo más importante, me he divertido.
 Aquí os muestro una imagen del resultado
 
 
